@@ -1,0 +1,21 @@
+.Button{
+    text-decoration: none;
+    display: block;  
+    color: #000000;
+    font-size: 24px;
+    font-family: 'Stoke', serif;
+    background-color: #999696;
+    border: 3px solid #5f5f5f;
+    width: 256px;
+    height: 64px;
+    border-radius: 2px;
+    text-align: center;
+    line-height: 64px;
+    transition: 0.5s;
+}
+.Button:hover{
+    background-color: #5b07d0;
+    color: #ffffff;
+    border: 3px solid #46099b;
+    border-radius: 12px;
+}
